@@ -1,7 +1,7 @@
 # 1 pràctica. Anàlisis dels materials
 ## Parelles
 
-#### Título:Toque de viento (2016) El sonido de la música, Saint-Silvain-sous-Toulx
+#### Título: Toque de viento (2016) El sonido de la música, Saint-Silvain-sous-Toulx
 Se vincula a que según el movimiento o la velocidad del viento el material suena de una forma o de otra. Y se producen sonidos diferentes con mayor y menor intensidad.
 
 #### Espacio: espacio exterior, naturaleza.

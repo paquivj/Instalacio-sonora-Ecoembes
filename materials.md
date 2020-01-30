@@ -15,5 +15,7 @@ Artificiales: Papel de aluminio, motores, placas de metal, plástico, baterías,
 #### Acción: La hace el viento
 
 ## Grup
+#### Título: Wind Touch
+Tras presentar al grupo nuestro trabajo se ha clasificado igual que lo que hemos realizado Lucia y yo en parejas.
 
 ## Classe

@@ -7,8 +7,8 @@ Se vincula a que según el movimiento o la velocidad del viento el material suen
 #### Espacio: espacio exterior, naturaleza.
 
 #### Materiales:
--Naturales: Viento, madera, plantas, arboles, conchas, piedras, piñas.
--Artificiales: Papel de aluminio, motores, placas de metal, plástico, baterías, cinta, ladrillos, esponjas, regadera, plato
+(-) Naturales: Viento, madera, plantas, arboles, conchas, piedras, piñas 
+(-) Artificiales: Papel de aluminio, motores, placas de metal, plástico, baterías, cinta, ladrillos, esponjas, regadera, plato
 
 #### Concepto: “ruido” de la contaminación 
 

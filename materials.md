@@ -17,6 +17,44 @@ Artificiales: Papel de aluminio, motores, placas de metal, plástico, baterías,
 
 ## Grup
 #### Título: Wind Touch
-Tras presentar al grupo nuestro trabajo se ha clasificado igual que lo que hemos realizado Lucia y yo en parejas.
+Tras presentar al grupo nuestro trabajo, los materiales se han clasificado igual que lo que hemos realizado Lucia y yo en parejas.
+
+#### Espacio:
+Espacio exterior en la naturaleza,campo
+
+#### Concepto:
+Impacto medioambiental
+
+#### Acción:
+Según la velocidad del viento
+Motores
 
 ## Classe
+
+#### Materiales:
+##### Reciclables:
+· Latas
+· Madera
+· Cartón
+· Papel aluminio
+· Vidrio
+· Hilo pescar
+· Plástico
+· Esponja
+
+##### Electrónicos:
+· Cables
+· Pilas
+· Motores
+· Interruptor
+
+
+##### Naturales:
+· Semillas
+· Piedra
+· Conchas
+· Troncos
+· Piñas
+· Agua
+
+

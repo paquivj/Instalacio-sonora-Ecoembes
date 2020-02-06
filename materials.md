@@ -41,14 +41,11 @@ Motores
 · Hilo pescar
 · Plástico
 · Esponja
-
 ##### Electrónicos:
 · Cables
 · Pilas
 · Motores
 · Interruptor
-
-
 ##### Naturales:
 · Semillas
 · Piedra
@@ -57,4 +54,31 @@ Motores
 · Piñas
 · Agua
 
+#### Espacio:
+##### Abierto:
+· Urbano
+· Campo
+· Patios interiores
+· Externo
+##### Cerrado:
+· Entorno
 
+#### Movimiento:
+##### Mecánico:
+· Vibración
+· Zumbido
+· Arrastre
+· Giro
+· Golpe
+· Caída
+##### Mecánico:
+· Arrastre
+· Caída
+· Choque
+· Vibración
+
+#### Conceptos:
+· Impacto ambiental
+· Contaminación
+· Reciclaje
+· Concienciación

@@ -5,8 +5,9 @@
 
 ### 1 Organització i presentació del projecte.
 ### 2 Anàlisis del material
-[pràctica 1. Anàlisis dels materials](materials.md)
+[Anàlisis dels materials](materials.md)
 ### 3 Taller
 ### 4 Taller
 ### 5 Muntatge i documentació
-[Montaje](materials.md)
+[Muntatge](materials.md)
+
